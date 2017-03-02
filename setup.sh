@@ -1,0 +1,1 @@
+wget https://nsgpublic.blob.core.windows.net/nsgpublic/t10k-images-idx3-ubyte.gz https://nsgpublic.blob.core.windows.net/nsgpublic/t10k-labels-idx1-ubyte.gz https://nsgpublic.blob.core.windows.net/nsgpublic/train-images-idx3-ubyte.gz https://nsgpublic.blob.core.windows.net/nsgpublic/train-labels-idx1-ubyte.gz
